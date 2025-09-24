@@ -1,1 +1,1 @@
-# parkinsons-embeddings
+# Embedding Analysis of Parkinson’s Transcriptomics
