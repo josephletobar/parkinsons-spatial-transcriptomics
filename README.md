@@ -1,1 +1,1 @@
-# Analysis of Parkinson’s Spatial Transcriptomics
+# Analysis of Parkinson’s Disease Spatial Transcriptomics Dataset
