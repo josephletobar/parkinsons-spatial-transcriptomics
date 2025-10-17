@@ -1,1 +1,1 @@
-# Embedding Analysis of Parkinson’s Transcriptomics
+# Analysis of Parkinson’s Spatial Transcriptomics
