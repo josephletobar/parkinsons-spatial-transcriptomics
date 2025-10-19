@@ -1,7 +1,7 @@
 import pandas as pd
 import tarfile
 
-# path to your tar file
+# path to tar file
 tar_path = "GSE253975_RAW.tar"
 
 # open and inspect
