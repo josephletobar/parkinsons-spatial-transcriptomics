@@ -1,0 +1,21 @@
+# Core Data Handling and Storage
+anndata
+numpy
+pandas
+
+# Spatial Transcriptomics and Single-Cell Analysis
+scanpy
+squidpy
+
+# R Integration for BayesSpace Clustering
+rpy2
+anndata2ri
+
+# Batch Correction 
+harmonypy
+
+# Visualization and Machine Learning Utilities
+matplotlib
+scikit-learn
+umap-learn
+torch
