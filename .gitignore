@@ -1,1 +1,13 @@
+# Model checkpoints and generated artifacts
 ckpt/
+
+# Large datasets and archives
+GSE253462_RAW.tar
+GSE253462_extracted/
+GSE253975_RAW.tar
+processed_visium.h5ad
+Mouse Data/
+*.h5ad
+
+# OS/editor noise
+.DS_Store
