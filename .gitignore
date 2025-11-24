@@ -1,1 +1,14 @@
 ckpt/
+
+# Large raw datasets
+GSE253975_RAW.tar
+GSE253975_data/
+GSE253462_RAW.tar
+GSE253462_extracted/
+
+# Large derived data artifacts
+merged_snRNA_counts.csv
+merged_snRNA_counts.h5
+processed_visium.h5ad
+Reference.Zhang.RDS
+Reference_Zhang.rds
