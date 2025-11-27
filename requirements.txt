@@ -1,4 +1,4 @@
-# Core Data Handling and Storage
+# Data Handling and Storage
 anndata
 numpy
 pandas
@@ -10,8 +10,11 @@ squidpy
 # Batch Correction 
 harmonypy
 
-# Visualization and Machine Learning Utilities
+# Visualization and Machine Learning
 matplotlib
 scikit-learn
 umap-learn
 torch
+
+# Cell-level pretrained embeddings
+cellplm
