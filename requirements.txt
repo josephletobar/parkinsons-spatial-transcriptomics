@@ -7,10 +7,6 @@ pandas
 scanpy
 squidpy
 
-# R Integration for BayesSpace Clustering
-rpy2
-anndata2ri
-
 # Batch Correction 
 harmonypy
 
