@@ -1,5 +1,19 @@
 # Analysis of Parkinson’s Disease Spatial Transcriptomics Dataset
 
+## Research Paper
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/26403974/parkinsons_spatial_transcriptomics_research_paper.pdf">
+    <img src="https://github.com/user-attachments/assets/004848df-beae-41bb-8c8f-dd4582768d8b" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  📄 <a href="https://github.com/user-attachments/files/26403974/parkinsons_spatial_transcriptomics_research_paper.pdf">
+  parkinsons_spatial_transcriptomics_research_paper.pdf
+  </a>
+</p>
+
 ## Data
 
 ### `GSE253975_data/`
